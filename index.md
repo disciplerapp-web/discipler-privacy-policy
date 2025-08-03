@@ -135,3 +135,5 @@ For any questions or concerns about this Privacy Policy:
 ---
 
 Thank you for using *Discipler*.
+
+📄 Läs denna integritetspolicy på svenska: [Integritetspolicy](./integritetspolicy)
