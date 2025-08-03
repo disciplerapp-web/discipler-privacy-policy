@@ -1,69 +1,136 @@
-# Privacy Policy
+# Privacy Policy  
+**Last updated: August 3, 2025**  
 
-**Last updated: August 3, 2025**
+Discipler AB (“we”, “our”, or “us”) operates the mobile application *Discipler* (the “App”). This Privacy Policy explains how we collect, use, disclose, and safeguard your personal data when you use our App, in accordance with the **General Data Protection Regulation (GDPR)** and applicable Swedish data protection law.
 
-Discipler AB ("we", "our", or "us") operates the mobile application *Discipler* (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+---
 
-## Information We Collect
+## 1. Data Controller  
+Discipler AB is the data controller responsible for your personal data under this policy.  
 
-We collect the following personal information from users who create an account on the App:
+**Company:** Discipler AB  
+**Email:** discipler.app@gmail.com  
+**Jurisdiction:** Sweden  
 
-- Name  
-- Email address  
-- Phone number  
-- Location (optional; users can choose to provide their real or a false location)  
+---
 
-## How We Use Your Information
+## 2. Information We Collect  
 
-We use the collected information to:
+We collect and process the following categories of personal data when you create an account or use the App:  
 
-- Create and manage user accounts and login  
-- Provide and improve the App’s functionality and user experience  
-- Send push notifications related to the App  
-- Analyze usage with analytics services (current and future use)  
-- Potentially serve advertisements in the future  
+- **Name**  
+- **Email address**  
+- **Phone number**  
+- **Location** *(optional; you may provide real or false data)*  
+- **Account credentials** *(username, hashed password)*  
+- **Device identifiers and technical data** *(IP address, operating system, app version — for analytics and debugging)*  
 
-## Optional Location Data
+---
 
-Providing location data is optional. You may choose to provide your real location or a false one. We do not automatically collect your current physical location without your consent.
+## 3. Legal Bases for Processing  
 
-## Analytics and Behavioral Data
+Under GDPR, we rely on the following legal grounds:  
 
-Currently, we do not fetch behavioral data, but we plan to collect and analyze such data in the future to improve the App. Our analytics services will be used in accordance with this policy.
+| Purpose                                       | Legal Basis                         |
+|----------------------------------------------|--------------------------------------|
+| Account creation and login                   | Performance of a contract            |
+| Sending push notifications                   | Consent                              |
+| Analytics and app improvement                | Legitimate interest / Consent        |
+| Optional advertising in the future           | Consent                              |
+| Responding to user support requests          | Legitimate interest                  |
 
-## Push Notifications
+You can withdraw your consent at any time by contacting us or using the app's privacy settings.
 
-We use push notifications to communicate important updates and messages about the App. You can opt out of receiving push notifications at any time.
+---
 
-## Data Sharing and Disclosure
+## 4. How We Use Your Data  
 
-We do not sell your personal information. We may share data with trusted service providers who assist us in operating the App, such as AWS backend services and analytics providers, under strict confidentiality agreements.
+We use your data to:  
 
-## Security
+- Register and manage your account  
+- Provide and maintain the App’s core features  
+- Communicate important updates and messages  
+- Analyze how users interact with the App to improve performance  
+- Prepare for future implementation of advertising features  
 
-We implement reasonable security measures to protect your information. However, no method of transmission over the internet or electronic storage is completely secure, so we cannot guarantee absolute security.
+---
 
-## Your Rights
+## 5. Optional Location Data  
 
-Under Swedish and European data protection laws (including GDPR), you have the right to:
+You may choose to provide your location manually. We do **not automatically track your physical location**. Providing false or fictional locations is allowed.
 
-- Access your personal data  
-- Rectify incorrect data  
-- Request deletion of your data  
-- Object to or restrict certain processing  
-- Withdraw consent at any time (where processing is based on consent)  
+---
 
-To exercise these rights, please contact us at discipler.app@gmail.com.
+## 6. Analytics and Future Behavioral Data  
 
-## Changes to This Privacy Policy
+Currently, we collect only basic usage data. In the future, we may use analytics tools (e.g., Google Analytics, AWS CloudWatch, etc.) to collect pseudonymous behavioral data to improve the App’s usability and content.  
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page with an updated effective date.
+We will update this policy before such data collection begins, and will request appropriate consent where necessary.
 
-## Contact Us
+---
 
-If you have any questions about this Privacy Policy, please contact us at:
+## 7. Push Notifications  
 
-Email: discipler.app@gmail.com
+We may send push notifications for updates or relevant App information. You can opt out in your device or App settings.
+
+---
+
+## 8. Sharing Your Information  
+
+We **do not sell your data**.  
+We may share your data with trusted third-party providers who help us operate the App, such as:
+
+- **AWS (Amazon Web Services)** — data hosting and backend services  
+- **Analytics services** — for app usage statistics  
+
+These providers are bound by data processing agreements to ensure compliance with GDPR.
+
+---
+
+## 9. International Transfers  
+
+We primarily store and process your data within the European Economic Area (EEA). If we transfer data outside the EEA (e.g., if using a U.S.-based analytics tool), we ensure such transfers are protected under GDPR-approved safeguards such as Standard Contractual Clauses (SCCs).
+
+---
+
+## 10. Data Retention  
+
+We retain personal data as long as your account remains active. You can request deletion of your account at any time.  
+Certain minimal data may be retained as required by legal obligations (e.g., fraud prevention, regulatory compliance).
+
+---
+
+## 11. Your Rights under GDPR  
+
+You have the following rights:  
+
+- **Access** – request a copy of the personal data we hold  
+- **Rectification** – request corrections to inaccurate data  
+- **Erasure** – request deletion (“right to be forgotten”)  
+- **Restriction** – request limited processing of your data  
+- **Portability** – receive your data in a portable format  
+- **Objection** – object to data processing where applicable  
+- **Withdraw consent** – for data processed on consent basis  
+
+To exercise any of these rights, contact us at: **discipler.app@gmail.com**.
+
+You also have the right to lodge a complaint with the **Swedish Authority for Privacy Protection (IMY)**: [https://www.imy.se](https://www.imy.se)
+
+---
+
+## 12. Changes to This Policy  
+
+We may update this Privacy Policy to reflect changes in our practices or legal requirements. Updated versions will be posted on this page with a new “Last updated” date.
+
+---
+
+## 13. Contact Us  
+
+For any questions or concerns about this Privacy Policy:  
+
+**Email:** discipler.app@gmail.com  
+**Company:** Discipler AB  
+**Jurisdiction:** Sweden  
 
 ---
 
