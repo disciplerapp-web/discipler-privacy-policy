@@ -124,3 +124,5 @@ Uppdateringar publiceras i appen eller på vår webbplats. Genom att fortsätta 
 Frågor eller funderingar?
 📧 discipler.app@gmail.com
 🏢 Discipler AB, Sverige
+
+📄 Read Terms of Service in English: [Terms of Service](terms-of-service.md)
