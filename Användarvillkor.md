@@ -1,4 +1,4 @@
-# 📜 Användarvillkor för Discipler  
+# Användarvillkor för Discipler  
 **Senast uppdaterad:** 5 augusti 2025  
 **Företag:** Discipler AB  
 **Jurisdiktion:** Sverige  
