@@ -122,3 +122,5 @@ We may update these Terms as the App evolves or as laws change. Updates will be 
 If you have questions, contact us at:
 📧 discipler.app@gmail.com
 📍 Discipler AB, Sweden
+
+📄 Läs användarvillkoren på svenska: [Användarvillkor](Användarvillkor.md)
